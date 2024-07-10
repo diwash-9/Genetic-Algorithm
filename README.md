@@ -64,5 +64,5 @@ print(f"Best solution found: x = {decoded_solution}, Fitness = {fitness_function
 ```
 
 ```bash
-Best solution found: x = 3.4375, Root/Fitness = 38.265625
+Best solution found: x = 3.4375, Fitness = 38.265625
 ```
